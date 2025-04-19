@@ -1,5 +1,4 @@
-# Task3
-Superstore Sales Analysis using MySQL
+**Superstore Sales Analysis using MySQL**
 
 This project demonstrates how to import, structure, and analyze sales data from a retail dataset (Superstore.csv) using MySQL Workbench on Windows.
 Dataset
